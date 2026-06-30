@@ -1,0 +1,9 @@
+Here is a classic, clean Java program to get you started: the "Hello, World!" program.
+
+Java
+public class HelloWorld {
+    public static void main(String[] args) {
+        // This line prints the text to the console
+        System.out.println("Hello, World!");
+    }
+}
